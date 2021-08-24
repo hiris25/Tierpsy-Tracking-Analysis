@@ -1,9 +1,9 @@
 # Tierpsy-Tracking-Analysis
 Scripts to analyse data produced by the tierpsy worm tracker.
 
-To do a quick and simple analysis to find significantly different features in a small set of gentotypes use:
+# ----- 50th-simple-ttest-heatmap-plot.ipynb ------
 
-50th-simple-ttest-heatmap-plot.ipynb
+To do a quick and simple analysis to find significantly different features in a small set of gentotypes
 
 Generate a summary file from tierpsy data with trajectories ticked.
 To this summary file add a coloum titled 'genotype'.
