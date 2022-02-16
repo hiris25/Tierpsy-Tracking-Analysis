@@ -1,7 +1,13 @@
 # Tierpsy-Tracking-Analysis
 Scripts to analyse data produced by the tierpsy worm tracker.
 
-## Track_images.ipynb
+- [Plot track images](#plot-track-images)
+- [Simple t test](#simple-t-test)
+
+
+# Plot track images
+
+File: Track_images.ipynb
 
 Takes raw trajectory data from tierpsy and plots images of tracks (individual and overlays).
 
@@ -11,7 +17,9 @@ Option normalise tracks to the same starting point for overlay images, also can 
 
 ![image](https://user-images.githubusercontent.com/33955824/154326842-ffccc403-49e6-4a6e-ae20-0e29218485c6.png)
 
-## 50th-simple-ttest-heatmap-plot.ipynb
+# simple t test
+
+File: 50th-simple-ttest-heatmap-plot.ipynb
 
 To do a quick and simple analysis to find significantly different features in a small set of gentotypes
 
