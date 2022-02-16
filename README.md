@@ -1,6 +1,14 @@
 # Tierpsy-Tracking-Analysis
 Scripts to analyse data produced by the tierpsy worm tracker.
 
+## Track_images.ipynb
+
+Takes raw trajectory data from tierpsy and plots images of tracks (individual and overlays).
+
+Also puts data into a dataframe and adds strain information (for this to work the first 6 characters of each file name must be the strain name).
+
+Option normalise tracks to the same starting point for overlay images, also can plot at least two variables in diff colours on top of eachother.
+
 ## 50th-simple-ttest-heatmap-plot.ipynb
 
 To do a quick and simple analysis to find significantly different features in a small set of gentotypes
