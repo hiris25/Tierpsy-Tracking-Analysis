@@ -9,6 +9,8 @@ Also puts data into a dataframe and adds strain information (for this to work th
 
 Option normalise tracks to the same starting point for overlay images, also can plot at least two variables in diff colours on top of eachother.
 
+![image](https://user-images.githubusercontent.com/33955824/154326842-ffccc403-49e6-4a6e-ae20-0e29218485c6.png)
+
 ## 50th-simple-ttest-heatmap-plot.ipynb
 
 To do a quick and simple analysis to find significantly different features in a small set of gentotypes
