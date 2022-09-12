@@ -3,6 +3,7 @@ Scripts to analyse data produced by the tierpsy worm tracker.
 
 - [Plot track images](#plot-track-images)
 - [Simple t test](#simple-t-test)
+- [Reorientations per min] (#reorientations-per-min)
 
 
 # Plot track images
@@ -32,3 +33,16 @@ The script will use only the 50th percentile numbers for each feature and run mu
 To make a heatmap of pvalues run all the desired comparisons between strains and save these files in a folder, these files will then be used to geneerate a p value heatmap.
 
 At the end of the script there is also example plotting scripts in order to plot a few interesting features.
+
+# Reorientations per min
+
+File: reorientations_per_min_12sep22.ipynb
+
+Takes raw trajectory data from tierpsy, interpolates and applies a rolling mean to tracks.
+
+Individual tracks can be plotted before and after interpolation and rolling mean application.
+
+Curvature of the path over time in then plotted and reorientations defined as curvature above 0.25. 
+
+Data cna then be plotted and exported for further analysis.
+
