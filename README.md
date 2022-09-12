@@ -48,5 +48,23 @@ Individual tracks can be plotted before and after interpolation and rolling mean
 
 Curvature of the path over time in then plotted and reorientations defined as curvature above 0.25. 
 
-Data cna then be plotted and exported for further analysis.
+Data can then be plotted and exported for further analysis.
+
+## Example analysis:
+
+Raw track at 25 fps:
+
+![image](https://user-images.githubusercontent.com/33955824/189632032-f5a2eee3-f50d-4ddc-86df-78802f234500.png)
+
+Interpolated and rolling mean of 50 frames:
+
+![image](https://user-images.githubusercontent.com/33955824/189632234-b2494eb4-2637-4657-91a3-e98f0861af15.png)
+
+Path curvature calculated:
+
+![image](https://user-images.githubusercontent.com/33955824/189632302-1e046532-3a72-43f6-ae01-70db1deb4482.png)
+
+Summary data polted:
+
+![image](https://user-images.githubusercontent.com/33955824/189632347-e49ea034-030b-4317-aa03-41234f965850.png)
 
