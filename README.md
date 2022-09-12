@@ -36,7 +36,7 @@ At the end of the script there is also example plotting scripts in order to plot
 
 # Reorientations per min
 
-File: reorientations_per_min_12sep22.ipynb
+File: reorientations_perworm_permin_12sep22.ipynb
 
 Takes raw trajectory data from tierpsy, interpolates and applies a rolling mean to tracks.
 
