@@ -3,7 +3,7 @@ Scripts to analyse data produced by the tierpsy worm tracker.
 
 - [Plot track images](#plot-track-images)
 - [Simple t test](#simple-t-test)
-- [Reorientations per min] (#Reorientations-per-min)
+- [Reorientations per min](#reorientations-per-min)
 
 
 # Plot track images
