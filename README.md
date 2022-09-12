@@ -8,6 +8,8 @@ Scripts to analyse data produced by the tierpsy worm tracker.
 
 # Plot track images
 
+Code used in following publicaiton: https://www.biorxiv.org/content/10.1101/2021.10.29.466399v1 
+
 File: Track_images.ipynb
 
 Takes raw trajectory data from tierpsy and plots images of tracks (individual and overlays).
@@ -37,6 +39,8 @@ At the end of the script there is also example plotting scripts in order to plot
 # Reorientations per min
 
 File: reorientations_perworm_permin_12sep22.ipynb
+
+Code used in following publicaiton: https://www.biorxiv.org/content/10.1101/2021.10.29.466399v1 
 
 Takes raw trajectory data from tierpsy, interpolates and applies a rolling mean to tracks.
 
